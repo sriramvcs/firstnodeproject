@@ -1,2 +1,2 @@
 # firstnodeproject
-Created a simple CRUD flow for users to understand the nuances of node.js / REST API
+Created a simple CRUD to understand the nuances of node.js / REST API
